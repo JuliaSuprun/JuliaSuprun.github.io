@@ -132,11 +132,27 @@ table{
     table-layout: fixed;
 }
 
-td{
+td, th{
     width: 25%;
     padding: 10px;
 }
 
+td>a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 5px;
+    background-color: orange;
+}
+
+td>a:hover{
+    color: orange;
+    text-decoration: underline;
+    border: 2px solid orange;
+    background-color: white;
+}
 .tekstprawo {
     text-align: right;
 }
@@ -154,7 +170,7 @@ td{
 }
  
 #kolorstrony{
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(233, 212, 93, 0.733);
 }
 #naglowek{
     font-size: larger;
@@ -206,7 +222,7 @@ td{
  #linijka1{
     text-transform:uppercase;
     color: green;
-    line-height: 20px;
+    line-height: 30px;
     text-align: justify;
     font-family: Courier, "Lucida Console", monospace;
  }
@@ -244,4 +260,5 @@ td{
 .opinietlo{
     background-color: rgb(247, 210, 3);
 }
+
 
