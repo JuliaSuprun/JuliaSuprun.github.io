@@ -161,7 +161,7 @@ td>a:hover{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 14px;
     font-weight: normal;
-    font-style:normal;
+    font-style:oblique;
     text-align: justify;
     text-transform: none;
     text-decoration: none;
@@ -181,6 +181,15 @@ td>a:hover{
     font-family: fantasy;
     font-size: 18px;
 }
+#wstep2{
+    color: black;
+    font-weight: lighter;
+    font-size: 14px;
+    line-height: 20px;
+    font-style: oblique;
+    text-align: center;
+}
+
 #naglowek{
     font-size: larger;
     text-align: center;
