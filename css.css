@@ -181,6 +181,14 @@ td>a:hover{
     font-family: fantasy;
     font-size: 18px;
 }
+#kolorwstepu{
+    color: rgb(255, 115, 0);
+    letter-spacing: 5px;
+    font-weight: bold;
+    font-family: fantasy;
+    font-size: 18px;
+    text-align: center;
+}
 #wstep2{
     color: black;
     font-weight: lighter;
@@ -189,6 +197,7 @@ td>a:hover{
     font-style: oblique;
     text-align: center;
 }
+
 
 #naglowek{
     font-size: larger;
