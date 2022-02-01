@@ -172,6 +172,15 @@ td>a:hover{
 #kolorstrony{
     background-color: rgba(233, 212, 93, 0.733);
 }
+
+#wstep{
+    text-align: center;
+    color: black;
+    letter-spacing: 5px;
+    font-weight: bold;
+    font-family: fantasy;
+    font-size: 18px;
+}
 #naglowek{
     font-size: larger;
     text-align: center;
