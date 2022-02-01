@@ -261,4 +261,16 @@ td>a:hover{
     background-color: rgb(247, 210, 3);
 }
 
+.ozdoba{
+    font-family: Courier, "Lucida Console", monospace;
+    text-transform:uppercase;
+    font-size: 17px;
+    
+}
+
+.opinieklient{
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+
 
